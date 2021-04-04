@@ -6,3 +6,4 @@ SSH
 connect remote repository
 now
 create a new branck is quick And simple
+disabled fast forward
