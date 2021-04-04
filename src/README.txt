@@ -5,3 +5,4 @@ Git tracks changes of file
 SSH
 connect remote repository
 now
+create a new branck is quick and simple
