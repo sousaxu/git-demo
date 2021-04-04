@@ -6,3 +6,4 @@ SSH
 connect remote repository
 now
 branch test
+create a branch is easy & simple
